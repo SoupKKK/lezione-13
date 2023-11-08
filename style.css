@@ -1,0 +1,23 @@
+html{
+    background-image: url(https://www.creativefabrica.com/wp-content/uploads/2022/06/11/Panda-Celebrating-Graphics-32163396-1-580x387.jpg);
+    background-repeat: no-repeat;  
+    background-size: cover;
+}
+
+body{text-align: center; font-size: 150%;}
+button{ 
+    margin-left: 3%; 
+    color: black; 
+    background-color: coral;
+    padding: 5px;
+    border-width: 6px;
+}
+
+div button{margin: 20px; padding: 10px; color: white; border-width: 3px;}
+
+ul li{
+    list-style-type: none;
+    color: crimson;
+    font-weight: bold;
+    font-size: 110%;
+  }
